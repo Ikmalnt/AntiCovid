@@ -1,5 +1,6 @@
 # GAMEIN
 Game In adalah Aplikasi berbasis java GUI untuk jual beli voucher game
+
 Kelas				: S1 IF07 L
 Nama TIM			: Anti Covid
 Project Manager (Nama/NIM)	: Ikmal Nawawi Thoha (19102255)
